@@ -1,6 +1,7 @@
 # Portfolio
 I am a recent graduate from the University of Sheffield who graduated with a 2-1 in Computer Science, this repository is going to be a portfolio of small projects I work on in Python to show my proficiency to recruiters in both Python and Git.
 
+All work in this repository is solely the work of myself, Thomas Jeffery.
 
 # Plan for repository
 The plan for this is to work on three different projects at first in the following order:
